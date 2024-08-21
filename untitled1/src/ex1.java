@@ -1,4 +1,4 @@
-class Solution {
+class SolutionInt {
 public static void main(String[] args) {
     int[] num_list = {1, 2, 3, 4, 5}; // 배열 선언 및 초기화
 
