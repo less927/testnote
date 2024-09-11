@@ -3,6 +3,7 @@ public class FactorialEx {
         int n = 7;
 
         FactorialSolution solution = new FactorialSolution();
+
         int answer = solution.solution(n);
         System.out.println(answer);
     }
